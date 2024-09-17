@@ -6,9 +6,11 @@ Rime_quick6  以蒼頡檢字法為核心,以速成分式拆碼     第六代速�
 <br>
 以蒼頡檢字法為核心,以速成分式拆碼
 <br>
-第六代速成輸入法
+第六代速成輸入法-按鍵位置圖
 <br>
 <img src="https://github.com/sheaahhoi1/Rime_quick6/raw/main/%E8%92%BC%E9%A0%A1%E5%85%AD%E4%BB%A3%E6%AA%A2%E5%AD%97%E6%B3%95%E5%AD%97%E5%BD%A2%E8%A1%A8/%E8%92%BC%E9%A0%A1%E5%85%AD%E4%BB%A3%E6%AA%A2%E5%AD%97%E6%B3%95-%E6%8C%89%E9%8D%B5%E4%BD%8D%E7%BD%AE.webp" width="50%" />
+<br>
+蒼頡檢字法拆碼圖
 <br>
 <img src="https://github.com/sheaahhoi1/Rime_quick6/raw/main/%E8%92%BC%E9%A0%A1%E5%85%AD%E4%BB%A3%E6%AA%A2%E5%AD%97%E6%B3%95%E5%AD%97%E5%BD%A2%E8%A1%A8/%E8%92%BC%E9%A0%A1%E5%AD%97%E6%AF%8D%E8%A1%A8.webp" width="50%" />
 <br>
