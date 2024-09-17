@@ -23,7 +23,7 @@ Rime_quick6  以蒼頡檢字法為核心,以速成分式拆碼     第六代速�
 我也找不到蒼頡檢字法相關教學,文檔所上傳的是中國百度保存的文件,但此作參考,算是入門筆記
 <br>
 <br>
-    <font size="10"><a  href="https://github.com/sheaahhoi1/Rime_quick6/tree/%E8%92%BC%E9%A0%A1%E5%85%AD%E4%BB%A3%E6%AA%A2%E5%AD%97%E6%B3%95%E5%AD%97%E5%BD%A2%E8%A1%A8-%E5%AD%B8%E7%BF%92%E6%96%87%E6%AA%94V1.0">蒼頡六代檢字法字形表-學習文檔</a></font>
+    <font size="10"><a  href="https://github.com/sheaahhoi1/Rime_quick6/releases/tag/%E8%92%BC%E9%A0%A1%E5%85%AD%E4%BB%A3%E6%AA%A2%E5%AD%97%E6%B3%95%E5%AD%97%E5%BD%A2%E8%A1%A8-%E5%AD%B8%E7%BF%92%E6%96%87%E6%AA%94V1.0">蒼頡六代檢字法字形表-學習文檔</a></font>
 <br>
 除非有人提供更多學習文檔,可這不更新
 <br>
