@@ -24,6 +24,7 @@ Rime_quick6  以蒼頡檢字法為核心,以速成分式拆碼     第六代速�
 <br>
 我也找不到更多蒼頡檢字法相關教學,文檔所上傳的是中國百度保存的文件,但此作參考,算是入門筆記
 <br>
+※:蒼成<b>(自嘲的你有想法嗎?)</b>每日3問:我是誰?這事為了做什麼?究竟為何存在?
 <br>
     <font size="10"><a  href="https://github.com/sheaahhoi1/Rime_quick6/releases/tag/%E8%92%BC%E9%A0%A1%E5%85%AD%E4%BB%A3%E6%AA%A2%E5%AD%97%E6%B3%95%E5%AD%97%E5%BD%A2%E8%A1%A8-%E5%AD%B8%E7%BF%92%E6%96%87%E6%AA%94V1.0">蒼頡六代檢字法字形表-學習文檔</a></font>
 <br>
