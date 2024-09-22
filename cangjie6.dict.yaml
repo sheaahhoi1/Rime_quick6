@@ -29,16 +29,16 @@ columns:
   - text
   - code
   - weight
-  - stem
-encoder:
-  rules:
-    - length_equal: 2
-      formula: AaAzBaBbBz
-    - length_equal: 3
-      formula: AaAzBaBzCz
-    - length_in_range: [4, 5]
-      formula: AaBzCaYzZz
-  tail_anchor: "'"
+  #- stem
+#encoder:
+  #rules:
+    #- length_equal: 2
+    #  formula: AaAzBaBbBz
+    #- length_equal: 3
+    #  formula: AaAzBaBzCz
+    #- length_in_range: [4, 5]
+    #  formula: AaBzCaYzZz
+  #tail_anchor: "'"
 ...
 #𣔕	onqd
 #𤈎	fpa
