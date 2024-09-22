@@ -2,6 +2,8 @@
 <br>
 Rime_quick6  以蒼頡檢字法為核心,以速成分式拆碼     第六代速成輸入法/蒼成<b>(自嘲的你有想法嗎?)</b>
 <br>
+<a href="https://github.com/sheaahhoi1/Rime_quick6/blob/8b0151c521ddab1c96f3b1486a3b52f00559beb0/%E4%BF%AE%E6%94%B9%E8%AA%AA%E6%98%8E/%E5%AD%97%E7%A2%BC%E5%BA%AB%E4%BF%AE%E6%94%B9%E8%AA%AA%E6%98%8E.md">字碼庫修改說明</a>
+<br>
 這是精簡版
 <br>
 以蒼頡檢字法為核心,以速成分式拆碼
